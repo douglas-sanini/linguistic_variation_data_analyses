@@ -23,10 +23,13 @@ Rhotic variants, on the other hand, were required to be in the coda position (pa
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/5a7ca91d-bf8a-4831-a5fe-aed197e3f43b)
 
 ##  DELETION OF /d/
+(to be developed)
 
 ## /s/ AS A PLURAL MARKER
+(to be developed)
 
 ## Rhotic variants
+(to be developed)
 
 ## CONTACT
 > DATA ENGINEER AND ANALYSIS - [Douglas Sanini](https://www.linkedin.com/in/douglas-sanini/)
