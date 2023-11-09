@@ -6,4 +6,5 @@
 
 ## CONTACT
 > DATA ENGINEER AND ANALYSIS - [Douglas Sanini](https://www.linkedin.com/in/douglas-sanini/)
+
 > RESEARCH, DATA COLLECTION, ANALYSIS - [Ana Paula Silva](https://www.linkedin.com/in/ana-paula-silva-2b5906182/)
