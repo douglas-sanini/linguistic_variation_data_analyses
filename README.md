@@ -18,7 +18,7 @@ To investigate /s/ as a plural marker (vamos ~ vamo∅), two linguistic analysis
 Rhotic variants, on the other hand, were required to be in the coda position (partir), medial, or final. It's important to note that final syllable coda contexts with resyllabification and the occurrence of the tap variant as a result of /r/ ceasing to be a coda and becoming an onset, as in "mar aberto," were excluded from the analysis. The occurrence of deletion (comer ~ come∅) was also examined to test the hypothesis of a gradation in rhotic deletion. The analysis categorized words based on their size and the position of /r/ in the word: beginning, middle, or end. Furthermore, words were divided into two categories: verb and noun." 
 - Ana Paula Silva
 
-## PALATALIZATION DATA SET
+## PALATALIZATION DATA SET (uncomplete)
 
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/5a7ca91d-bf8a-4831-a5fe-aed197e3f43b)
 
