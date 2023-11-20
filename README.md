@@ -17,7 +17,7 @@ To investigate /s/ as a plural marker (vamos ~ vamo∅), two linguistic analysis
 Rhotic variants, on the other hand, were required to be in the coda position (partir), medial, or final. It's important to note that final syllable coda contexts with resyllabification and the occurrence of the tap variant as a result of /r/ ceasing to be a coda and becoming an onset, as in "mar aberto," were excluded from the analysis. The occurrence of deletion (comer ~ come∅) was also examined to test the hypothesis of a gradation in rhotic deletion. The analysis categorized words based on their size and the position of /r/ in the word: beginning, middle, or end. Furthermore, words were divided into two categories: verb and noun." - Ana Paula Silva
 
 ## DATA ENGINEERING
-Within the `data` folder can be found all the .docx files with the fonetic transcriptions of the interviews used for this research. Within the `data_structure` folder, each fonetic phenomenom data sets were organized and created in seperate jupyter files. What happens there is the extraction of the .docx files into text files where the re library, also known as the python's regular expressions library, comes in great use to create specific expressions that can identify words with each phenomenon. Combining this with pandas library it was possible to meticulously create organized dataframes that in the future comes handy for the data analysis.  Here are the end results for each phenomenon:
+Within the `data` folder can be found all the .docx files with the fonetic transcriptions of the interviews used for this research. Within the `data_structure` folder, each fonetic phenomenom data sets were organized and created in seperate jupyter files. What happens there is the extraction of the .docx files into text files where the re library, also known as the python's regular expressions library, comes in great use to create specific expressions that can identify words with each phenomenon. Combining this with pandas library it was possible to meticulously create organized dataframes that in the future comes handy for the data analysis. The end results for each phenomenon can be found below. One important note observe is that each word for each table shown below have data regarding the subject that was interviewed which are subject number, undergrad major, year of college (either first or last) and sex. 
 
 ### PALATALIZATION 
 
@@ -52,6 +52,18 @@ Next up are the counts of the combination of patalizations with the acompanied t
 
 
 ###  DELETION OF /d/ IN GERUNDS
+
+The below table shows the counts of words that did and didn't have the deletion of the /d/ in gerunds with their respective percentages.
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/48123071-30ce-4d14-b811-ab8efb8bd1fd)
+
+Next up is the same case but now it will be divided by undergrad major, year of college and sex. Each case of division will be in seperate tables.
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/0298bf75-272e-440d-b804-6b3855b4a8cd)
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/5ec8c62e-1638-4bda-a45c-b80f8f998bb9)
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/12b3962a-e875-4adb-a7df-40646ac1262f)
 
 
 
