@@ -15,8 +15,7 @@ Regarding the deletion of /d/ in the gerund (cantando ~ cantan∅o), the goal wa
 
 To investigate /s/ as a plural marker (vamos ~ vamo∅), two linguistic analysis criteria were established. Following Scherre (1978; 1988), the elimination of plural markers generally occurs only in determiners or elements in the first position. Therefore, the position of the word in the phrase was chosen as the first criterion. For the second criterion, the following context was examined to test the hypothesis that /s/ initiating the next word would favor the presence of /s/ as a plural marker for the previous word (a[s] saias).
 
-Rhotic variants, on the other hand, were required to be in the coda position (partir), medial, or final. It's important to note that final syllable coda contexts with resyllabification and the occurrence of the tap variant as a result of /r/ ceasing to be a coda and becoming an onset, as in "mar aberto," were excluded from the analysis. The occurrence of deletion (comer ~ come∅) was also examined to test the hypothesis of a gradation in rhotic deletion. The analysis categorized words based on their size and the position of /r/ in the word: beginning, middle, or end. Furthermore, words were divided into two categories: verb and noun." 
-- Ana Paula Silva
+Rhotic variants, on the other hand, were required to be in the coda position (partir), medial, or final. It's important to note that final syllable coda contexts with resyllabification and the occurrence of the tap variant as a result of /r/ ceasing to be a coda and becoming an onset, as in "mar aberto," were excluded from the analysis. The occurrence of deletion (comer ~ come∅) was also examined to test the hypothesis of a gradation in rhotic deletion. The analysis categorized words based on their size and the position of /r/ in the word: beginning, middle, or end. Furthermore, words were divided into two categories: verb and noun." - Ana Paula Silva
 
 ## PALATALIZATION 
 
