@@ -66,9 +66,19 @@ Next up is the same case but now it will be divided by undergrad major, year of 
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/12b3962a-e875-4adb-a7df-40646ac1262f)
 
 
-
 ### /s/ AS A PLURAL MARKER
 
+The table belows shows the count of words where the /s/ in plural words were included or deleted and the percentages.
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/78654d3e-98b0-444c-bef6-cbfa359f2b92)
+
+Next up is the same but seperating by undergrad major, year of college and sex.
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/4de078a6-8e99-496d-b71c-6bd10cc319c8)
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/27dd921c-1df7-4596-ad89-a9f966a85e19)
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/3467d26d-57cc-4c3e-b929-b6bfb1687241)
 
 
 ### RHOTICS VARIANTS
