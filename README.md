@@ -1,4 +1,4 @@
-![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/4baf7455-ccc6-4743-858c-b48f57a265eb)# Linguistic Variation Data Analysis
+# Linguistic Variation Data Analysis
 > This repository contains all data engineering and analysis from a graduate research on social linguistic variations.
 
 ## ABOUT THE RESEARCH
