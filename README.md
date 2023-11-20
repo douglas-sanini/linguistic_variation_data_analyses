@@ -89,15 +89,19 @@ The table belows shows the count of words with rhotic variants and their percent
 
 Next up are respectively the counts and percentage tables of the cases where the /r/ was deleted and if these cases were for nouns or verbs.
 Count:
+
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/86c35e6d-6364-4c9c-b22a-2cccebbf6348)
 Percentage:
+
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/1b744c7d-0c53-457e-b117-6180a0b5186f)
 
 
 Next up are the counts and percentage tables of the cases where the /r/ was deleted and if these cases were big (more than 8 characters), medium (Between 5 and 7 characters) or small (less than 5 characters).
 Count:
+
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/2dc676fa-69c8-49e8-b8cc-f9c0b2ea6f57)
 Percentage:
+
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/ac318614-fcd0-4282-a8f9-30faf48610e0)
 
 
