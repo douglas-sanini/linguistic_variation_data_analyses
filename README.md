@@ -81,11 +81,31 @@ Next up is the same but seperating by undergrad major, year of college and sex.
 ![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/3467d26d-57cc-4c3e-b929-b6bfb1687241)
 
 
-### RHOTICS VARIANTS
+### RHOTIC VARIANTS
+
+The table belows shows the count of words with rhotic variants and their percentages.
+
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/64ad38c5-b096-4c4d-87a7-f5ddc5d519ce)
+
+Next up are respectively the counts and percentage tables of the cases where the /r/ was deleted and if these cases were for nouns or verbs.
+Count:
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/86c35e6d-6364-4c9c-b22a-2cccebbf6348)
+Percentage:
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/1b744c7d-0c53-457e-b117-6180a0b5186f)
 
 
+Next up are the counts and percentage tables of the cases where the /r/ was deleted and if these cases were big (more than 8 characters), medium (Between 5 and 7 characters) or small (less than 5 characters).
+Count:
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/2dc676fa-69c8-49e8-b8cc-f9c0b2ea6f57)
+Percentage:
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/ac318614-fcd0-4282-a8f9-30faf48610e0)
 
 
+Finally below are tables are the cases where the /r/ is deleted but now divided by undergrad major, year of college, sex and also the postition in  were the deletion ocorres within the word in which it was found.
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/7bf23130-b226-44c7-a7d1-7f0021667fcb)
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/80f15408-c43c-433e-aee6-5e07cfe6666b)
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/1cc10a05-01d1-4e9d-a108-70c78ef7239e)
+![image](https://github.com/douglas-sanini/linguistic_variation_data_analyses/assets/102381949/485a1e28-e8a4-4488-8a71-d30f0d11f6d0)
 
 
 ## CONTACT
